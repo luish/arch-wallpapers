@@ -1,4 +1,4 @@
-###[ArchLinux Wallpapers](http://luishenrique.org/blog/posts/wallpapers-archlinux "Arch Wallpapers")
+###ArchLinux Wallpapers
 
 25 PNG files
 
@@ -9,4 +9,4 @@
 
 Preview:
 
-![ArchLinux Wallpapers](http://labs.luishenrique.org/archlinux/wallpapers/arch-wallpapers.png "Arch Wallpapers")
+![ArchLinux Wallpapers](https://raw.githubusercontent.com/luish/arch-wallpapers/master/preview-small.png)
